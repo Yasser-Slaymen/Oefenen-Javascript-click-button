@@ -1,0 +1,19 @@
+button{
+    color: blueviolet;
+    border:2rem soli 2rem;
+}
+div{
+    border: 2px solid gray;
+    padding: 2rem;
+    margin: 1rem;
+    background: chartreuse;
+     opacity: 0;
+    transition: 2s;
+
+
+}
+div.yay{
+    background-color: rgb(122, 108, 182);
+    opacity:1;
+    margin-top: 2rem;
+}
